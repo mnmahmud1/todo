@@ -1,0 +1,13 @@
+.gantt-chart {
+	display: flex;
+	flex-direction: row;
+	margin-top: 10px;
+}
+
+.gantt-bar {
+	/* margin-right: 5px; */
+	height: 20px;
+	text-align: center;
+	line-height: 20px;
+	color: white;
+}
